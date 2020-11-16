@@ -4,7 +4,7 @@ output: html_document
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
 ```
 
 ```{r}
@@ -28,7 +28,7 @@ coralDIV2 <- coralDIV %>%
   subset_samples(!is.na(host_species))
 ```
 
-# Does Symbiodiniaceae community structure in corals vary among sites?
+
 ```{r, fig.width = 10, fig.height = 40}
 # Plot ITS2 profiles for each coral sample by species and site
 plot_bar(coral, fill = "its2_type_profile") +
