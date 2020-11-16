@@ -1,0 +1,79 @@
+---
+title: "ITS2 data analysis"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(tidyverse)
+library(readxl)
+library(phyloseq)
+library(janitor)
+```
+
+# Read in coral ITS2 profiles
+```{r}
+sam0 <- read_xlsx("data/SymPortal_datasheet_20200901.xlsx", skip = 1)
+rownames(sam0) <- sam0$sample_name
+sam <- sample_data(data.frame(sam0))
+
+tax0 <- read_tsv(
+  file  = "data/symportal/its2_type_profiles/120_20200902_DBV_20200903T014225.profiles.relative.abund_and_meta.txt",
+  n_max = 6) %>%
+  dplyr::select(-2) %>% 
+  gather(UID, value, -1) %>% 
+  spread(1, value) %>%
+  clean_names()
+tax1 <- as.matrix(tax0[, -1], dimnames = list(tax0$uid, colnames(tax0[-1])))
+rownames(tax1) <- tax0$uid
+tax <- tax_table(tax1)
+
+otu0 <- read_tsv(
+  file  = "data/symportal/its2_type_profiles/120_20200902_DBV_20200903T014225.profiles.relative.abund_and_meta.txt") %>%
+  rename(sample_name = X2) %>%
+  select(-1) %>%
+  slice(7:n()) %>%
+  mutate_at(2:ncol(.), as.numeric)
+otu1 <- as.matrix(otu0[, -1])
+rownames(otu1) <- otu0$sample_name
+otu <- otu_table(otu1, taxa_are_rows = FALSE)
+
+coral <- phyloseq(otu, tax, sam)
+```
+
+# Read in coral post-QC sequence variants
+```{r}
+sam0 <- read_xlsx("data/SymPortal_datasheet_20200901.xlsx", skip = 1)
+rownames(sam0) <- sam0$sample_name
+sam <- sample_data(data.frame(sam0))
+
+taxnames <- read_tsv(
+  file  = "data/symportal/post_med_seqs/120_20200902_DBV_20200903T014225.seqs.relative.abund_only.txt",
+  n_max = 0) %>%
+  select(-1) %>%
+  names(.)
+tax0 <- data_frame(
+  DIV = taxnames,
+  clade = str_extract(DIV, "[A-Z]")
+)
+tax1 <- as.matrix(tax0)
+rownames(tax1) <- tax0$DIV
+tax <- tax_table(tax1)
+
+otu0 <- read_tsv(
+  file  = "data/symportal/post_med_seqs/120_20200902_DBV_20200903T014225.seqs.relative.abund_and_meta.txt") %>%
+  select(-1, -(3:33))
+otu1 <- as.matrix(otu0[, -1])
+rownames(otu1) <- otu0$sample_name
+otu <- otu_table(otu1, taxa_are_rows = FALSE)
+
+coralDIV <- phyloseq(otu, tax, sam)
+```
+
+```{r}
+save(coral, coralDIV, file = "data/coral_phyloseq.RData")
+```
+

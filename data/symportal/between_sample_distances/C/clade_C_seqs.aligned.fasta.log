@@ -1,0 +1,814 @@
+IQ-TREE multicore version 2.0.3 for Linux 64-bit built Apr 26 2020
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor,
+Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    zygote (AVX2, FMA3, 1007 GB RAM)
+Command: iqtree -T AUTO --threads-max 2 -s /home/humebc/phylogeneticSoftware/SymPortal_framework/outputs/analyses/120/20200903T014225/between_sample_distances/C/clade_C_seqs.aligned.fasta
+Seed:    391602 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Thu Sep  3 01:44:30 2020
+Kernel:  AVX+FMA - auto-detect threads (255 CPU cores detected)
+
+Reading alignment file /home/humebc/phylogeneticSoftware/SymPortal_framework/outputs/analyses/120/20200903T014225/between_sample_distances/C/clade_C_seqs.aligned.fasta ... Fasta format detected
+Alignment most likely contains DNA/RNA sequences
+Alignment has 652 sequences with 447 columns, 346 distinct patterns
+131 parsimony-informative, 75 singleton sites, 241 constant sites
+         Gap/Ambiguity  Composition  p-value
+   1  1         41.16%    passed     99.31%
+   2  2         41.16%    passed     99.85%
+   3  2051      40.94%    passed     98.68%
+   4  4         41.39%    passed     99.97%
+   5  5         41.16%    passed     99.26%
+   6  40961     41.39%    passed     98.00%
+   7  7         41.16%    passed     99.38%
+   8  108555    42.73%    passed     98.48%
+   9  38924     42.73%    passed     98.98%
+  10  15        41.16%    passed     99.47%
+  11  38928     41.16%    passed     99.80%
+  12  20        41.16%    passed     99.83%
+  13  32        41.16%    passed     99.96%
+  14  35        41.16%    passed     99.59%
+  15  37        41.16%    passed     97.76%
+  16  4134      41.16%    passed     99.83%
+  17  41        42.73%    passed     99.07%
+  18  2090      41.16%    passed     99.38%
+  19  2092      41.16%    passed     99.47%
+  20  43057     41.16%    passed     99.83%
+  21  43060     41.16%    passed     99.88%
+  22  49205     43.18%    passed     98.13%
+  23  54        41.39%    passed     99.94%
+  24  58        42.73%    passed     98.98%
+  25  59        41.16%    passed     99.92%
+  26  26682     41.16%    passed     99.83%
+  27  458816    41.16%    passed     97.95%
+  28  65        41.39%    passed     99.94%
+  29  71        41.16%    passed     99.59%
+  30  72        41.16%    passed     98.96%
+  31  75        41.16%    passed     99.52%
+  32  76        41.16%    passed     99.59%
+  33  80        41.39%    passed     99.75%
+  34  82        41.16%    passed     98.77%
+  35  85        41.39%    passed     99.82%
+  36  911446    41.16%    passed     99.77%
+  37  151643    41.16%    passed     99.02%
+  38  14429     41.16%    passed     99.98%
+  39  43102     41.16%    passed     98.96%
+  40  95        41.39%    passed     99.68%
+  41  98        41.16%    passed     99.47%
+  42  911462    41.16%    passed     99.29%
+  43  106       41.16%    passed     97.76%
+  44  108       41.39%    passed     99.94%
+  45  109       40.94%    passed     97.92%
+  46  110       41.16%    passed     97.65%
+  47  111       41.16%    passed     98.96%
+  48  112       41.16%    passed     98.54%
+  49  113       40.94%    passed     95.87%
+  50  114       41.16%    passed     99.31%
+  51  36973     41.16%    passed     99.59%
+  52  117       41.16%    passed     99.95%
+  53  118       41.16%    passed     97.76%
+  54  739446    41.16%    passed     99.52%
+  55  32893     41.39%    passed     99.78%
+  56  126       41.16%    passed     98.88%
+  57  100477    41.16%    passed     99.51%
+  58  895106    41.16%    passed     99.67%
+  59  6276      41.16%    passed     99.96%
+  60  6277      41.16%    passed     99.96%
+  61  138       41.16%    passed     99.26%
+  62  139       41.16%    passed     99.96%
+  63  32907     41.16%    passed     99.96%
+  64  141       41.16%    passed     97.37%
+  65  37007     41.16%    passed     97.46%
+  66  32912     41.16%    passed     99.80%
+  67  2193      41.16%    passed     99.26%
+  68  147       41.16%    passed     99.55%
+  69  148       41.16%    passed     99.88%
+  70  6292      41.16%    passed     99.59%
+  71  150       41.16%    passed     97.76%
+  72  32921     41.16%    passed     99.50%
+  73  161       41.16%    passed     99.59%
+  74  18596     41.16%    passed     99.95%
+  75  37038     41.16%    passed     98.96%
+  76  37040     41.16%    passed     99.31%
+  77  39095     43.40%    passed     99.71%
+  78  39097     42.73%    passed     98.98%
+  79  22716     41.16%    passed     97.82%
+  80  2239      41.16%    passed     99.95%
+  81  891074    40.94%    passed     99.91%
+  82  22723     41.16%    passed     99.08%
+  83  196       41.16%    passed     99.83%
+  84  911559    40.49%    passed     99.14%
+  85  203       41.16%    passed     99.96%
+  86  86219     41.16%    passed     99.80%
+  87  8403      41.16%    passed     99.83%
+  88  37075     42.73%    passed     98.98%
+  89  213       41.16%    passed     99.47%
+  90  39125     42.73%    passed     98.43%
+  91  43238     41.16%    passed     97.46%
+  92  32999     41.16%    passed     95.46%
+  93  596202    41.16%    passed     99.50%
+  94  108784    42.73%    passed     99.66%
+  95  43253     41.16%    passed     97.98%
+  96  33019     41.16%    passed     95.33%
+  97  6396      41.16%    passed     99.80%
+  98  18685     41.16%    passed     99.96%
+  99  41213     42.73%    passed     96.93%
+ 100  41215     42.73%    passed     98.98%
+ 101  41217     41.16%    passed     99.80%
+ 102  10499     40.94%    passed     99.44%
+ 103  43270     41.16%    passed     99.85%
+ 104  43271     40.72%    passed     99.87%
+ 105  41224     41.16%    passed     99.27%
+ 106  265       41.16%    passed     99.52%
+ 107  41226     41.16%    passed     99.52%
+ 108  14603     41.16%    passed     99.96%
+ 109  37132     41.16%    passed     95.33%
+ 110  37133     41.16%    passed     97.98%
+ 111  348425    42.73%    passed     99.24%
+ 112  28943     41.16%    passed     99.83%
+ 113  67855     42.73%    passed     99.07%
+ 114  279       41.16%    passed     99.83%
+ 115  22813     44.74%    passed    100.00%
+ 116  41250     42.73%    passed     99.72%
+ 117  506147    41.16%    passed     99.88%
+ 118  298       41.16%    passed     99.31%
+ 119  307       40.72%    passed     99.08%
+ 120  308       41.16%    passed     99.38%
+ 121  139579    41.16%    passed     99.29%
+ 122  317       41.16%    passed     99.38%
+ 123  322       41.16%    passed     99.83%
+ 124  324       41.61%    passed     99.48%
+ 125  326       41.16%    passed     99.47%
+ 126  41292     42.73%    passed     99.24%
+ 127  342356    42.73%    passed     98.48%
+ 128  754005    42.28%    passed     98.35%
+ 129  20824     41.16%    passed     99.52%
+ 130  444770    42.73%    passed     99.07%
+ 131  2410      41.16%    passed     99.52%
+ 132  20844     40.94%    passed     97.25%
+ 133  29036     41.16%    passed     99.59%
+ 134  368       41.16%    passed     99.38%
+ 135  2416      41.16%    passed     98.29%
+ 136  374       41.16%    passed     97.89%
+ 137  375       41.16%    passed     98.77%
+ 138  376       41.39%    passed     99.68%
+ 139  377       41.16%    passed     98.04%
+ 140  2424      41.16%    passed     99.52%
+ 141  37242     42.73%    passed     96.99%
+ 142  377208    41.16%    passed     97.65%
+ 143  8576      41.16%    passed     99.38%
+ 144  20866     41.16%    passed     99.92%
+ 145  455043    41.83%    passed     94.63%
+ 146  37253     41.16%    passed     99.95%
+ 147  39301     41.16%    passed     99.31%
+ 148  127366    42.73%    passed     99.82%
+ 149  37256     41.16%    passed     99.98%
+ 150  20880     41.16%    passed     99.27%
+ 151  20887     41.16%    passed     99.80%
+ 152  70040     41.16%    passed     99.29%
+ 153  70043     41.16%    passed     99.92%
+ 154  70044     40.94%    passed     99.64%
+ 155  37280     42.73%    passed     98.48%
+ 156  422       41.16%    passed     99.95%
+ 157  423       41.16%    passed     99.96%
+ 158  20905     41.16%    passed     98.54%
+ 159  430       41.16%    passed     98.29%
+ 160  20910     41.16%    passed     99.55%
+ 161  65971     41.16%    passed     99.95%
+ 162  1147985   41.39%    passed     99.94%
+ 163  8634      41.16%    passed     98.81%
+ 164  20922     41.16%    passed     99.55%
+ 165  20923     41.16%    passed     98.29%
+ 166  20925     41.16%    passed     97.76%
+ 167  22974     41.39%    passed     99.57%
+ 168  20930     40.94%    passed     97.95%
+ 169  20932     42.73%    passed     98.43%
+ 170  4553      41.16%    passed     98.81%
+ 171  14795     41.16%    passed     99.83%
+ 172  20940     41.16%    passed     99.55%
+ 173  4559      41.16%    passed     99.59%
+ 174  20946     41.16%    passed     98.29%
+ 175  66006     41.16%    passed     99.59%
+ 176  1147991   41.83%    passed     93.00%
+ 177  113118    41.16%    passed     97.65%
+ 178  666078    41.16%    passed     96.54%
+ 179  1147993   41.16%    passed     92.68%
+ 180  39397     40.94%    passed     99.77%
+ 181  29161     41.39%    passed     99.96%
+ 182  133614    41.16%    passed     99.31%
+ 183  14840     41.16%    passed     99.38%
+ 184  2554      41.16%    passed     99.95%
+ 185  66044     41.16%    passed     99.50%
+ 186  517       41.16%    passed     99.77%
+ 187  37384     41.16%    passed     99.98%
+ 188  523       41.16%    passed     99.98%
+ 189  90645     41.16%    passed     99.88%
+ 190  47640     41.16%    passed     99.55%
+ 191  539       41.16%    passed     98.80%
+ 192  21025     41.16%    passed     99.95%
+ 193  780834    41.39%    passed     96.54%
+ 194  21034     41.16%    passed     97.76%
+ 195  37421     41.16%    passed     99.80%
+ 196  14895     41.39%    passed     99.57%
+ 197  1148009   41.16%    passed     99.98%
+ 198  21042     41.39%    passed     99.57%
+ 199  23090     41.16%    passed     99.55%
+ 200  23092     41.16%    passed     99.72%
+ 201  377398    41.16%    passed     98.16%
+ 202  39479     41.16%    passed     98.81%
+ 203  21049     41.16%    passed     98.96%
+ 204  37434     40.94%    passed     99.81%
+ 205  27198     41.16%    passed     99.08%
+ 206  33343     41.16%    passed     98.77%
+ 207  33364     41.16%    passed     95.46%
+ 208  279766    42.73%    passed     99.73%
+ 209  862806    41.16%    passed     97.82%
+ 210  4696      41.16%    passed     98.80%
+ 211  608       41.16%    passed     99.08%
+ 212  8800      41.16%    passed     99.67%
+ 213  16993     42.51%    passed     98.82%
+ 214  2663      41.16%    passed     99.96%
+ 215  98926     42.73%    passed     99.72%
+ 216  37489     41.16%    passed     99.29%
+ 217  37493     41.16%    passed     99.01%
+ 218  2678      41.16%    passed     99.96%
+ 219  637       41.16%    passed     99.98%
+ 220  39550     40.94%    passed     99.45%
+ 221  23167     41.16%    passed     99.98%
+ 222  39557     40.94%    passed     99.89%
+ 223  47752     40.94%    passed    100.00%
+ 224  650       41.16%    passed     99.38%
+ 225  2700      41.16%    passed     99.83%
+ 226  656       41.16%    passed     99.98%
+ 227  657       41.39%    passed     99.33%
+ 228  33434     41.16%    passed     97.46%
+ 229  23195     41.16%    passed     99.95%
+ 230  58011     41.39%    passed     99.94%
+ 231  39586     41.16%    passed     99.98%
+ 232  21168     41.16%    passed     98.54%
+ 233  2739      40.94%    passed     98.83%
+ 234  6839      41.16%    passed     99.55%
+ 235  21180     41.16%    passed     98.96%
+ 236  10941     41.16%    passed     99.96%
+ 237  72385     41.16%    passed     97.46%
+ 238  21187     41.16%    passed     98.54%
+ 239  21188     41.16%    passed     99.96%
+ 240  748230    41.16%    passed     99.92%
+ 241  51911     42.73%    passed     98.98%
+ 242  714       41.16%    passed     99.67%
+ 243  21194     41.16%    passed     99.85%
+ 244  21195     41.16%    passed     99.38%
+ 245  21196     41.16%    passed     99.59%
+ 246  72394     41.16%    passed     96.97%
+ 247  121547    41.16%    passed     99.98%
+ 248  13008     41.16%    passed     99.02%
+ 249  264911    41.16%    passed     98.64%
+ 250  375506    41.39%    passed     99.82%
+ 251  21205     41.16%    passed     99.80%
+ 252  21208     42.73%    passed     98.98%
+ 253  748249    41.16%    passed     99.92%
+ 254  21210     41.16%    passed     99.55%
+ 255  21216     44.30%    passed     97.54%
+ 256  92898     41.39%    passed     99.82%
+ 257  21219     41.16%    passed     96.15%
+ 258  21223     41.16%    passed     99.55%
+ 259  8943      41.16%    passed     99.98%
+ 260  21234     41.16%    passed     97.98%
+ 261  761       41.16%    passed     97.46%
+ 262  775       41.16%    passed     99.67%
+ 263  21259     41.16%    passed     99.31%
+ 264  45840     41.16%    passed     98.88%
+ 265  21274     41.16%    passed     96.31%
+ 266  796       41.16%    passed     98.96%
+ 267  391966    42.73%    passed     99.91%
+ 268  39714     40.94%    passed     97.59%
+ 269  748342    41.16%    passed     99.92%
+ 270  60216     42.95%    passed     99.34%
+ 271  117561    41.16%    passed     99.50%
+ 272  827       41.16%    passed     96.97%
+ 273  828       41.16%    passed     99.98%
+ 274  830       41.16%    passed     99.38%
+ 275  831       41.39%    passed     99.92%
+ 276  832       41.39%    passed     99.92%
+ 277  833       41.16%    passed     99.38%
+ 278  834       41.16%    passed     99.38%
+ 279  835       43.18%    passed     97.29%
+ 280  837       41.16%    passed     97.46%
+ 281  754504    41.16%    passed     99.05%
+ 282  21323     41.16%    passed     99.80%
+ 283  848       41.16%    passed     99.96%
+ 284  351057    41.16%    passed     99.29%
+ 285  858       41.16%    passed     99.95%
+ 286  859       41.16%    passed     99.98%
+ 287  99169     42.73%    passed     96.93%
+ 288  869       41.16%    passed     99.98%
+ 289  875       41.16%    passed     98.81%
+ 290  23413     41.16%    passed     99.59%
+ 291  742267    41.16%    passed     98.64%
+ 292  105340    42.73%    passed     96.99%
+ 293  54141     41.16%    passed     99.92%
+ 294  895       41.16%    passed     99.59%
+ 295  33663     41.16%    passed     99.01%
+ 296  441219    42.73%    passed     96.80%
+ 297  95108     41.16%    passed     99.98%
+ 298  2953      41.16%    passed     99.83%
+ 299  17290     41.16%    passed     99.83%
+ 300  45964     41.16%    passed     99.80%
+ 301  45978     41.16%    passed     99.43%
+ 302  742299    41.16%    passed     98.64%
+ 303  5020      41.16%    passed     99.38%
+ 304  105386    42.73%    passed     98.84%
+ 305  41900     42.73%    passed     98.98%
+ 306  41901     42.51%    passed     98.82%
+ 307  150449    41.16%    passed     99.55%
+ 308  459705    41.83%    passed     95.12%
+ 309  459707    42.73%    passed     99.66%
+ 310  1063871   41.16%    passed     96.15%
+ 311  46028     41.16%    passed     98.54%
+ 312  982       41.16%    passed     99.59%
+ 313  5078      41.16%    passed     99.38%
+ 314  1010      41.16%    passed     99.95%
+ 315  343029    42.73%    passed     99.66%
+ 316  1147893   41.16%    passed     99.77%
+ 317  1147894   40.94%    passed     99.77%
+ 318  1147895   41.16%    passed     98.63%
+ 319  1147896   42.73%    passed     98.98%
+ 320  1147898   41.16%    passed     99.80%
+ 321  1147906   47.87%    passed     92.48%
+ 322  21507     41.16%    passed     99.55%
+ 323  1147907   40.72%    passed     98.58%
+ 324  1147908   41.16%    passed     97.89%
+ 325  1147909   41.16%    passed     97.89%
+ 326  1147910   41.16%    passed     98.80%
+ 327  1147911   38.70%    passed     96.69%
+ 328  1147912   43.18%    passed     98.02%
+ 329  1147913   43.40%    passed     99.45%
+ 330  1147914   38.70%    passed     98.33%
+ 331  136204    41.16%    passed     97.98%
+ 332  752652    41.16%    passed     99.29%
+ 333  21518     41.16%    passed     99.67%
+ 334  470031    41.83%    passed     96.91%
+ 335  1147915   46.09%    passed     99.69%
+ 336  1147916   44.52%    passed     99.76%
+ 337  1147917   42.28%    passed     97.39%
+ 338  1147918   42.73%    passed     98.43%
+ 339  1147919   42.73%    passed     98.68%
+ 340  1147920   41.16%    passed     99.50%
+ 341  470038    42.73%    passed     98.68%
+ 342  1147921   50.34%    passed     92.90%
+ 343  1147922   50.11%    passed     97.87%
+ 344  1147928   42.51%    passed     99.54%
+ 345  1147929   42.28%    passed     98.25%
+ 346  1147930   46.53%    passed     99.74%
+ 347  1147931   45.19%    passed     99.96%
+ 348  1147932   42.73%    passed     98.98%
+ 349  1147933   42.73%    passed     99.98%
+ 350  1147934   43.62%    passed     97.64%
+ 351  1147935   40.94%    passed    100.00%
+ 352  699425    40.27%    passed     98.55%
+ 353  1147936   40.49%    passed     77.78%
+ 354  1147937   41.83%    passed     99.45%
+ 355  1147938   40.94%    passed     99.77%
+ 356  1147939   40.49%    passed     81.73%
+ 357  1147940   48.32%    passed     98.98%
+ 358  1147941   41.16%    passed     99.31%
+ 359  1147942   40.72%    passed     99.76%
+ 360  1147943   48.99%    passed     99.11%
+ 361  1147944   48.32%    passed     99.58%
+ 362  470059    41.83%    passed     90.90%
+ 363  1147945   47.20%    passed     99.75%
+ 364  1147946   40.94%    passed     99.22%
+ 365  1147948   40.72%    passed     99.61%
+ 366  1063983   41.16%    passed     98.29%
+ 367  1147951   41.16%    passed     99.27%
+ 368  1147952   41.39%    passed     99.75%
+ 369  1147953   41.61%    passed     98.59%
+ 370  1147954   41.16%    passed     98.95%
+ 371  1147955   40.94%    passed     99.69%
+ 372  1147956   44.52%    passed     99.23%
+ 373  1147957   40.04%    passed     99.99%
+ 374  1147958   40.72%    passed     99.99%
+ 375  1147959   40.94%    passed     99.93%
+ 376  1147960   41.16%    passed     99.80%
+ 377  1147961   41.16%    passed     99.47%
+ 378  1147962   41.16%    passed     98.63%
+ 379  1147963   41.16%    passed     99.98%
+ 380  1147964   41.61%    passed     99.93%
+ 381  1147965   41.16%    passed     99.08%
+ 382  1147966   41.16%    passed     98.07%
+ 383  1147967   41.16%    passed     99.72%
+ 384  1147968   41.16%    passed     99.43%
+ 385  1147969   41.16%    passed     98.43%
+ 386  1147970   41.16%    passed     97.59%
+ 387  1147971   41.16%    passed     98.29%
+ 388  1147972   42.06%    passed     93.24%
+ 389  13382     41.16%    passed     99.88%
+ 390  68679     41.83%    passed     95.85%
+ 391  1147973   41.16%    passed     97.98%
+ 392  1147974   42.06%    passed     97.14%
+ 393  68682     42.28%    passed     97.79%
+ 394  1147975   41.16%    passed     99.98%
+ 395  1147976   40.72%    passed     99.89%
+ 396  1147977   42.06%    passed     90.88%
+ 397  1147978   42.06%    passed     98.94%
+ 398  1147979   49.89%    passed     80.30%
+ 399  1147980   41.83%    passed     99.22%
+ 400  11345     41.16%    passed     99.52%
+ 401  46161     48.32%    passed     94.44%
+ 402  21587     41.16%    passed     95.33%
+ 403  1147981   39.60%    passed     99.98%
+ 404  1147982   41.16%    passed     99.96%
+ 405  68694     42.28%    passed     98.34%
+ 406  1111      41.39%    passed     99.61%
+ 407  1147983   41.16%    passed     99.80%
+ 408  1147984   41.61%    passed     99.83%
+ 409  873562    42.28%    passed     94.98%
+ 410  1147986   41.16%    passed     95.60%
+ 411  1147987   40.94%    passed     98.47%
+ 412  1147988   40.94%    passed     97.25%
+ 413  1147989   41.16%    passed     99.77%
+ 414  1147990   41.61%    passed     99.66%
+ 415  21600     41.16%    passed     97.76%
+ 416  1147992   41.83%    passed     89.94%
+ 417  17506     41.16%    passed     98.80%
+ 418  1123      41.16%    passed     99.83%
+ 419  1147997   41.39%    passed     99.94%
+ 420  1147998   41.16%    passed     99.96%
+ 421  1147999   41.16%    passed     99.85%
+ 422  68711     41.16%    passed     98.96%
+ 423  1148000   40.27%    passed     99.99%
+ 424  1148001   43.40%    passed     98.27%
+ 425  1148002   47.87%    passed     99.43%
+ 426  1148003   40.72%    passed     99.38%
+ 427  1148004   40.72%    passed     98.80%
+ 428  1148005   41.16%    passed     99.29%
+ 429  21614     41.16%    passed     99.38%
+ 430  1148006   40.72%    passed     99.81%
+ 431  1148007   41.16%    passed     98.63%
+ 432  1148008   41.16%    passed     99.47%
+ 433  1138      41.16%    passed     99.08%
+ 434  1148017   41.16%    passed     99.11%
+ 435  1148019   46.76%    passed     95.64%
+ 436  21621     41.16%    passed     97.76%
+ 437  105590    42.28%    passed     94.94%
+ 438  1148020   43.18%    passed     98.30%
+ 439  265336    41.16%    passed     98.54%
+ 440  21625     41.16%    passed     99.85%
+ 441  1148021   40.27%    passed     97.76%
+ 442  11391     41.39%    passed     99.61%
+ 443  17535     41.16%    passed     98.80%
+ 444  742546    42.28%    passed     99.60%
+ 445  70818     42.28%    passed     94.81%
+ 446  70819     41.83%    passed     94.55%
+ 447  70820     42.73%    passed     96.06%
+ 448  70821     42.73%    passed     96.99%
+ 449  1190      41.16%    passed     99.95%
+ 450  3241      41.16%    passed     99.38%
+ 451  42153     42.51%    passed     91.62%
+ 452  70826     43.18%    passed     97.66%
+ 453  70828     42.73%    passed     98.91%
+ 454  42157     42.73%    passed     96.80%
+ 455  70830     42.73%    passed     99.69%
+ 456  1199      41.16%    passed     98.80%
+ 457  70831     42.73%    passed     98.48%
+ 458  70840     41.61%    passed     95.50%
+ 459  783544    41.16%    passed     96.05%
+ 460  70846     40.94%    passed     93.40%
+ 461  70847     41.83%    passed     97.22%
+ 462  5324      41.16%    passed     99.08%
+ 463  21709     41.39%    passed     99.82%
+ 464  281806    41.16%    passed     99.31%
+ 465  64724     48.55%    passed     99.91%
+ 466  46293     41.83%    passed     99.53%
+ 467  46294     42.51%    passed     98.20%
+ 468  21719     41.16%    passed     98.77%
+ 469  46296     42.51%    passed     98.31%
+ 470  3289      41.16%    passed     99.52%
+ 471  46298     40.94%    passed     97.05%
+ 472  1243      41.16%    passed     99.95%
+ 473  46299     40.94%    passed     98.70%
+ 474  99543     42.73%    passed     96.93%
+ 475  46302     42.73%    passed     98.98%
+ 476  42207     42.73%    passed     96.93%
+ 477  46305     42.28%    passed     99.60%
+ 478  1254      41.16%    passed     99.77%
+ 479  46313     41.61%    passed     98.46%
+ 480  343284    42.95%    passed     97.87%
+ 481  1269      41.16%    passed     99.98%
+ 482  957693    42.73%    passed     99.91%
+ 483  68862     41.39%    passed     99.97%
+ 484  3332      41.16%    passed     99.59%
+ 485  25860     41.16%    passed     99.31%
+ 486  21767     41.39%    passed     98.18%
+ 487  740616    41.16%    passed     99.26%
+ 488  70921     42.28%    passed     98.30%
+ 489  70925     42.73%    passed     98.84%
+ 490  70927     43.18%    passed     96.90%
+ 491  70931     42.73%    passed     96.92%
+ 492  25877     41.16%    passed     99.80%
+ 493  70933     42.28%    passed     98.30%
+ 494  1320      41.16%    passed     98.80%
+ 495  70956     41.83%    passed     95.81%
+ 496  25903     41.39%    passed     98.41%
+ 497  1330      41.16%    passed     99.95%
+ 498  21810     41.16%    passed     99.80%
+ 499  1333      41.16%    passed     99.77%
+ 500  220478    41.16%    passed     99.59%
+ 501  1345      41.16%    passed     99.80%
+ 502  3393      41.16%    passed     99.83%
+ 503  25923     41.16%    passed     99.27%
+ 504  1354      41.16%    passed     99.59%
+ 505  1355      41.16%    passed     99.55%
+ 506  15691     42.73%    passed     98.98%
+ 507  62796     41.16%    passed     99.80%
+ 508  62797     41.16%    passed     99.80%
+ 509  62798     41.16%    passed     99.50%
+ 510  62804     41.16%    passed     97.76%
+ 511  13659     41.16%    passed     98.80%
+ 512  54629     41.16%    passed     99.92%
+ 513  62821     42.73%    passed     99.45%
+ 514  3433      41.16%    passed     98.80%
+ 515  62825     42.28%    passed     99.29%
+ 516  62831     41.83%    passed     93.39%
+ 517  62836     42.06%    passed     98.56%
+ 518  71028     42.73%    passed     98.48%
+ 519  38269     40.27%    passed     99.55%
+ 520  40328     41.16%    passed     97.46%
+ 521  21902     41.39%    passed     99.81%
+ 522  54673     41.16%    passed     99.98%
+ 523  742801    41.16%    passed     99.83%
+ 524  456086    41.83%    passed     91.00%
+ 525  62871     41.16%    passed     99.67%
+ 526  62874     41.16%    passed     99.92%
+ 527  62878     41.16%    passed     99.95%
+ 528  13734     41.16%    passed     99.47%
+ 529  456103    41.83%    passed     89.63%
+ 530  64939     47.87%    passed     99.44%
+ 531  21933     41.16%    passed     99.01%
+ 532  1103      41.16%    passed     98.08%
+ 533  62895     41.16%    passed     99.59%
+ 534  62896     41.16%    passed     99.80%
+ 535  742832    41.83%    passed     99.87%
+ 536  62902     40.72%    passed     99.89%
+ 537  714183    41.16%    passed     97.82%
+ 538  46292     42.28%    passed     98.25%
+ 539  48600     41.16%    passed     99.59%
+ 540  15833     41.16%    passed     99.59%
+ 541  1112      41.16%    passed     99.51%
+ 542  99803     41.16%    passed     99.18%
+ 543  48605     41.16%    passed     98.94%
+ 544  390619    41.16%    passed     99.85%
+ 545  583133    41.16%    passed     97.95%
+ 546  5602      41.16%    passed     99.26%
+ 547  71140     41.83%    passed     94.55%
+ 548  69097     42.73%    passed     99.82%
+ 549  42483     40.94%    passed     99.91%
+ 550  71161     40.49%    passed     99.75%
+ 551  267769    41.16%    passed     99.77%
+ 552  42496     42.06%    passed     99.74%
+ 553  38403     41.16%    passed     99.38%
+ 554  48643     41.16%    passed     98.08%
+ 555  374275    41.16%    passed     99.77%
+ 556  665092    50.34%    passed     97.53%
+ 557  40457     41.16%    passed     99.31%
+ 558  40458     40.94%    passed     97.25%
+ 559  26134     36.24%    passed     95.80%
+ 560  40470     43.85%    passed     99.12%
+ 561  882206    41.16%    passed     99.50%
+ 562  11809     41.39%    passed     99.96%
+ 563  42534     42.51%    passed     98.47%
+ 564  9767      41.16%    passed     99.95%
+ 565  384550    41.16%    passed     98.08%
+ 566  452151    41.16%    passed     98.29%
+ 567  71234     42.73%    passed     96.80%
+ 568  71235     41.83%    passed     89.55%
+ 569  1617      41.16%    passed     98.80%
+ 570  743004    41.16%    passed     99.08%
+ 571  42589     42.73%    passed     98.43%
+ 572  42593     42.28%    passed     98.25%
+ 573  13928     41.16%    passed     98.96%
+ 574  42603     42.73%    passed     96.93%
+ 575  42607     42.73%    passed     99.82%
+ 576  40560     42.28%    passed     97.56%
+ 577  740978    41.16%    passed     99.04%
+ 578  40563     40.94%    passed     98.94%
+ 579  743026    41.16%    passed     99.67%
+ 580  22134     41.16%    passed     98.96%
+ 581  9849      41.16%    passed     99.80%
+ 582  738969    41.16%    passed     94.70%
+ 583  16036     41.16%    passed     99.92%
+ 584  69289     42.73%    passed     98.48%
+ 585  1707      43.62%    passed     99.48%
+ 586  11962     41.16%    passed     99.83%
+ 587  11963     41.16%    passed     98.80%
+ 588  48844     40.94%    passed     98.29%
+ 589  71372     34.23%    passed     97.98%
+ 590  892623    42.73%    passed     98.91%
+ 591  153296    41.16%    passed     99.26%
+ 592  93910     41.39%    passed     99.92%
+ 593  9945      41.16%    passed     99.85%
+ 594  335590    43.40%    passed     96.85%
+ 595  417517    42.73%    passed     99.24%
+ 596  335601    41.16%    passed     99.67%
+ 597  22261     41.16%    passed     99.08%
+ 598  22275     41.16%    passed     98.96%
+ 599  3845      40.72%    passed     99.74%
+ 600  1142539   41.16%    passed     99.01%
+ 601  1813      40.94%    passed     99.69%
+ 602  1819      40.94%    passed    100.00%
+ 603  1826      41.16%    passed     99.85%
+ 604  48932     41.16%    passed     99.95%
+ 605  349991    41.16%    passed     99.58%
+ 606  739112    41.16%    passed     99.80%
+ 607  3890      41.16%    passed     99.98%
+ 608  71479     41.16%    passed     99.51%
+ 609  71480     41.16%    passed     99.98%
+ 610  22330     41.16%    passed     99.85%
+ 611  38717     41.16%    passed     99.31%
+ 612  65343     50.78%    passed     98.12%
+ 613  741190    41.16%    passed     99.77%
+ 614  1866      41.16%    passed     99.85%
+ 615  42828     42.73%    passed     98.38%
+ 616  741196    41.16%    passed     99.72%
+ 617  266062    41.16%    passed     97.98%
+ 618  26449     41.16%    passed     99.38%
+ 619  42849     42.73%    passed     98.43%
+ 620  38757     42.73%    passed     99.69%
+ 621  282472    41.39%    passed     99.49%
+ 622  38767     42.73%    passed     99.69%
+ 623  247675    41.39%    passed     99.53%
+ 624  40833     41.16%    passed     96.97%
+ 625  40835     41.16%    passed     98.29%
+ 626  1932      41.16%    passed     99.67%
+ 627  1936      41.16%    passed     99.83%
+ 628  40851     41.16%    passed     99.96%
+ 629  974740    42.73%    passed     99.66%
+ 630  182167    41.16%    passed     99.83%
+ 631  1944      41.16%    passed     99.83%
+ 632  1945      41.16%    passed     99.51%
+ 633  1947      41.16%    passed     99.47%
+ 634  1093533   41.16%    passed     99.95%
+ 635  6049      41.16%    passed     99.95%
+ 636  92066     41.16%    passed     97.65%
+ 637  1956      41.16%    passed     99.83%
+ 638  49066     42.28%    passed     97.39%
+ 639  24506     41.16%    passed     99.85%
+ 640  40890     41.16%    passed     98.01%
+ 641  8129      42.73%    passed     99.72%
+ 642  40901     41.16%    passed     96.97%
+ 643  38854     42.73%    passed     98.43%
+ 644  10189     40.94%    passed     99.23%
+ 645  702416    41.16%    passed     99.95%
+ 646  108497    42.73%    passed     99.69%
+ 647  16357     41.16%    passed     99.83%
+ 648  10214     41.16%    passed     99.47%
+ 649  10221     41.16%    passed     99.98%
+ 650  1114102   41.16%    passed     99.59%
+ 651  348152    40.94%    passed     99.89%
+ 652  24569     41.16%    passed     99.59%
+WARNING: 4 sequences contain more than 50% gaps/ambiguity
+****  TOTAL     41.62%  0 sequences failed composition chi2 test (p-value<5%; df=3)
+
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.086 seconds
+Measuring multi-threading efficiency up to 2 CPU cores
+Increase to 10 rounds for branch lengths
+5 trees examined
+Threads: 1 / Time: 2.244 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -9586
+Threads: 2 / Time: 2.265 sec / Speedup: 0.991 / Efficiency: 50% / LogL: -9586
+BEST NUMBER OF THREADS: 1
+
+Perform fast likelihood tree search using GTR+I+G model...
+Estimate model parameters (epsilon = 5.000)
+Perform nearest neighbor interchange...
+Estimate model parameters (epsilon = 1.000)
+1. Initial log-likelihood: -4810.101
+2. Current log-likelihood: -4808.761
+Optimal log-likelihood: -4807.910
+Rate parameters:  A-C: 1.30048  A-G: 4.30578  A-T: 0.39715  C-G: 1.19524  C-T: 2.94025  G-T: 1.00000
+Base frequencies:  A: 0.166  C: 0.242  G: 0.243  T: 0.349
+Proportion of invariable sites: 0.100
+Gamma shape alpha: 1.713
+Parameters optimization took 2 rounds (0.783 sec)
+Time for fast ML tree search: 4.260 seconds
+
+NOTE: ModelFinder requires 74 MB RAM!
+ModelFinder will test up to 286 DNA models (sample size: 447) ...
+ No. Model         -LnL         df  AIC          AICc         BIC
+  1  GTR+F         4879.423     1309 12376.846    3441956.846  17747.095
+  2  GTR+F+I       4858.565     1310 12337.129    3447157.129  17711.481
+  3  GTR+F+G4      4804.342     1310 12228.684    3447048.684  17603.036
+  4  GTR+F+I+G4    4805.367     1311 12232.734    3452296.734  17611.188
+  5  GTR+F+R2      4791.969     1311 12205.938    3452269.938  17584.392
+  6  GTR+F+R3      4758.483     1313 12142.966    3462706.966  17529.625
+  7  GTR+F+R4      4758.466     1315 12146.933    3473226.933  17541.797
+ 19  SYM+R3        4778.162     1310 12176.323    3446996.323  17550.675
+ 32  TVM+F+R3      4761.039     1312 12146.078    3457458.078  17528.634
+ 45  TVMe+R3       4781.275     1309 12180.551    3441760.551  17550.800
+ 58  TIM3+F+R3     4767.334     1311 12156.669    3452220.669  17535.123
+ 71  TIM3e+R3      4794.505     1308 12205.009    3436549.009  17571.156
+ 84  TIM2+F+R3     4769.791     1311 12161.582    3452225.582  17540.036
+ 97  TIM2e+R3      4784.483     1308 12184.965    3436528.965  17551.112
+110  TIM+F+R3      4771.472     1311 12164.944    3452228.944  17543.399
+123  TIMe+R3       4791.623     1308 12199.246    3436543.246  17565.392
+136  TPM3u+F+R3    4769.928     1310 12159.856    3446979.856  17534.208
+149  TPM3+F+R3     4769.928     1310 12159.856    3446979.856  17534.208
+162  TPM2u+F+R3    4770.880     1310 12161.761    3446981.761  17536.113
+175  TPM2+F+R3     4770.880     1310 12161.761    3446981.761  17536.113
+188  K3Pu+F+R3     4772.577     1310 12165.154    3446985.154  17539.506
+201  K3P+R3        4795.011     1307 12204.022    3431316.022  17566.066
+214  TN+F+R3       4773.550     1310 12167.100    3446987.100  17541.452
+227  TNe+R3        4795.406     1307 12204.811    3431316.811  17566.856
+240  HKY+F+R3      4774.867     1309 12167.734    3441747.734  17537.984
+253  K2P+R3        4798.802     1306 12209.604    3426093.604  17567.546
+266  F81+F+R3      4892.142     1308 12400.284    3436744.284  17766.431
+279  JC+R3         4915.200     1305 12440.400    3421100.400  17794.239
+Akaike Information Criterion:           GTR+F+R3
+Corrected Akaike Information Criterion: JC+R3
+Bayesian Information Criterion:         TVM+F+R3
+Best-fit model: TVM+F+R3 chosen according to BIC
+
+All model information printed to /home/humebc/phylogeneticSoftware/SymPortal_framework/outputs/analyses/120/20200903T014225/between_sample_distances/C/clade_C_seqs.aligned.fasta.model.gz
+CPU time for ModelFinder: 53.405 seconds (0h:0m:53s)
+Wall-clock time for ModelFinder: 51.052 seconds (0h:0m:51s)
+
+NOTE: 22 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -4761.039
+Optimal log-likelihood: -4761.016
+Rate parameters:  A-C: 1.25203  A-G: 3.41699  A-T: 0.36798  C-G: 1.23843  C-T: 3.41699  G-T: 1.00000
+Base frequencies:  A: 0.166  C: 0.242  G: 0.243  T: 0.349
+Site proportion and rates:  (0.779,0.554) (0.214,2.185) (0.007,13.915)
+Parameters optimization took 1 rounds (0.447 sec)
+Computing ML distances based on estimated model parameters... 2.351 sec
+Computing BIONJ tree...
+0.422 seconds
+Log-likelihood of BIONJ tree: -4647.047
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 8.768 second
+Computing log-likelihood of 98 initial trees ... 4.878 seconds
+Current best score: -4647.047
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -4585.840
+Iteration 10 / LogL: -4761.834 / Time: 0h:0m:32s
+Iteration 20 / LogL: -4756.427 / Time: 0h:0m:42s
+Finish initializing candidate tree set (20)
+Current best tree score: -4585.840 / CPU time: 39.103
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Iteration 30 / LogL: -4602.785 / Time: 0h:0m:55s (0h:2m:17s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 37: -4582.137
+Iteration 40 / LogL: -4610.134 / Time: 0h:1m:10s (0h:2m:56s left)
+Iteration 50 / LogL: -4628.028 / Time: 0h:1m:23s (0h:2m:27s left)
+Iteration 60 / LogL: -4582.570 / Time: 0h:1m:37s (0h:2m:6s left)
+Iteration 70 / LogL: -4582.755 / Time: 0h:1m:50s (0h:1m:47s left)
+Iteration 80 / LogL: -4598.208 / Time: 0h:2m:3s (0h:1m:28s left)
+Iteration 90 / LogL: -4589.583 / Time: 0h:2m:16s (0h:1m:12s left)
+Iteration 100 / LogL: -4594.344 / Time: 0h:2m:29s (0h:0m:55s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 108: -4577.877
+Iteration 110 / LogL: -4624.854 / Time: 0h:2m:44s (0h:2m:27s left)
+Iteration 120 / LogL: -4598.117 / Time: 0h:2m:58s (0h:2m:11s left)
+Iteration 130 / LogL: -4597.090 / Time: 0h:3m:11s (0h:1m:55s left)
+Iteration 140 / LogL: -4597.805 / Time: 0h:3m:25s (0h:1m:40s left)
+Iteration 150 / LogL: -4607.390 / Time: 0h:3m:38s (0h:1m:25s left)
+Iteration 160 / LogL: -4580.885 / Time: 0h:3m:51s (0h:1m:9s left)
+Iteration 170 / LogL: -4588.699 / Time: 0h:4m:4s (0h:0m:54s left)
+Iteration 180 / LogL: -4592.150 / Time: 0h:4m:17s (0h:0m:40s left)
+Iteration 190 / LogL: -4588.005 / Time: 0h:4m:31s (0h:0m:25s left)
+Iteration 200 / LogL: -4598.406 / Time: 0h:4m:44s (0h:0m:11s left)
+TREE SEARCH COMPLETED AFTER 209 ITERATIONS / Time: 0h:4m:56s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -4577.877
+Optimal log-likelihood: -4577.868
+Rate parameters:  A-C: 0.85170  A-G: 3.55907  A-T: 0.28843  C-G: 1.23788  C-T: 3.55907  G-T: 1.00000
+Base frequencies:  A: 0.166  C: 0.242  G: 0.243  T: 0.349
+Site proportion and rates:  (0.967,0.699) (0.029,4.756) (0.004,46.123)
+Parameters optimization took 1 rounds (0.379 sec)
+BEST SCORE FOUND : -4577.868
+Total tree length: 2.424
+
+Total number of iterations: 209
+CPU time used for tree search: 293.031 sec (0h:4m:53s)
+Wall-clock time used for tree search: 293.185 sec (0h:4m:53s)
+Total CPU time used: 296.885 sec (0h:4m:56s)
+Total wall-clock time used: 297.049 sec (0h:4m:57s)
+
+Analysis results written to: 
+  IQ-TREE report:                /home/humebc/phylogeneticSoftware/SymPortal_framework/outputs/analyses/120/20200903T014225/between_sample_distances/C/clade_C_seqs.aligned.fasta.iqtree
+  Maximum-likelihood tree:       /home/humebc/phylogeneticSoftware/SymPortal_framework/outputs/analyses/120/20200903T014225/between_sample_distances/C/clade_C_seqs.aligned.fasta.treefile
+  Likelihood distances:          /home/humebc/phylogeneticSoftware/SymPortal_framework/outputs/analyses/120/20200903T014225/between_sample_distances/C/clade_C_seqs.aligned.fasta.mldist
+  Screen log file:               /home/humebc/phylogeneticSoftware/SymPortal_framework/outputs/analyses/120/20200903T014225/between_sample_distances/C/clade_C_seqs.aligned.fasta.log
+
+Date and Time: Thu Sep  3 01:50:18 2020

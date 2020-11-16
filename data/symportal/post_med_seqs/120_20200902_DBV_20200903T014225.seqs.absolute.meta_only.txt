@@ -1,0 +1,172 @@
+sample_uid	sample_name	raw_contigs	post_qc_absolute_seqs	post_qc_unique_seqs	post_taxa_id_absolute_symbiodiniaceae_seqs	post_taxa_id_unique_symbiodiniaceae_seqs	size_screening_violation_absolute	size_screening_violation_unique	post_taxa_id_absolute_non_symbiodiniaceae_seqs	post_taxa_id_unique_non_symbiodiniaceae_seqs	post_med_absolute	post_med_unique	noName Clade A	noName Clade B	noName Clade C	noName Clade D	noName Clade E	noName Clade F	noName Clade G	noName Clade H	noName Clade I	sample_type	host_phylum	host_class	host_order	host_family	host_genus	host_species	collection_latitude	collection_longitude	collection_date	collection_depth
+109362	SH0097	26184	1484	28	1484	28	0	0	0	0	1484	5	0	0	0	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Acropora		999.00000000	999.00000000	NoData	NoData
+109355	SH0090	9467	486	11	482	10	0	0	4	1	482	5	0	0	0	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Acropora		999.00000000	999.00000000	NoData	NoData
+109354	SH0089	7101	392	11	389	10	0	0	3	1	389	5	0	0	0	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Acropora		999.00000000	999.00000000	NoData	NoData
+109350	SH0085	22283	1146	27	1136	25	0	0	10	2	1136	5	0	0	0	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Acropora	cervicornis	999.00000000	999.00000000	NoData	NoData
+109347	SH0082	33831	1754	49	1533	31	0	0	221	18	1526	5	0	0	0	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Acropora	cervicornis	999.00000000	999.00000000	NoData	NoData
+109346	SH0081	31807	1706	42	1690	38	0	0	16	4	1685	5	0	0	0	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Acropora	cervicornis	999.00000000	999.00000000	NoData	NoData
+109363	SH0098	29708	1785	42	1782	41	0	0	3	1	1776	5	0	0	0	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Acropora		999.00000000	999.00000000	NoData	NoData
+109361	SH0096	30211	1895	47	1881	43	0	0	14	4	1873	5	0	0	0	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Acropora		999.00000000	999.00000000	NoData	NoData
+109360	SH0095	26464	1483	39	1479	38	0	0	4	1	1476	5	0	0	0	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Acropora		999.00000000	999.00000000	NoData	NoData
+109357	SH0092	30907	1883	44	1877	42	0	0	6	2	1877	6	0	0	0	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Acropora		999.00000000	999.00000000	NoData	NoData
+109343	SH0078	31413	1831	46	1828	45	0	0	3	1	1821	6	0	0	0	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Acropora	cervicornis	999.00000000	999.00000000	NoData	NoData
+109352	SH0087	21840	1198	26	1198	26	0	0	0	0	1195	6	4	0	0	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Acropora	cervicornis	999.00000000	999.00000000	NoData	NoData
+109366	SH0102	28084	1602	39	1583	33	0	0	19	6	1583	6	6	0	0	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Acropora		999.00000000	999.00000000	NoData	NoData
+109348	SH0083	25260	1443	40	1432	37	0	0	11	3	1432	6	9	0	0	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Acropora	cervicornis	999.00000000	999.00000000	NoData	NoData
+109431	SH099	20032	1150	30	1150	30	0	0	0	0	1150	6	8	0	0	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Acropora		999.00000000	999.00000000	NoData	NoData
+109365	SH0101	17147	1026	25	1020	23	0	0	6	2	1017	6	0	0	0	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Acropora		999.00000000	999.00000000	NoData	NoData
+109358	SH0093	29172	1633	48	1618	44	0	0	15	4	1606	7	0	0	0	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Acropora		999.00000000	999.00000000	NoData	NoData
+109359	SH0094	30192	1597	44	1438	29	0	0	159	15	1428	9	61	0	0	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Acropora		999.00000000	999.00000000	NoData	NoData
+109345	SH0080	30526	1700	44	1688	42	0	0	12	2	1675	8	75	0	0	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Acropora	cervicornis	999.00000000	999.00000000	NoData	NoData
+109349	SH0084	15057	762	23	753	21	0	0	9	2	753	8	34	0	0	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Acropora	cervicornis	999.00000000	999.00000000	NoData	NoData
+109344	SH0079	78905	4410	135	4369	127	0	0	41	8	4314	10	220	0	0	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Acropora	cervicornis	999.00000000	999.00000000	NoData	NoData
+109415	SH0151	16245	811	24	643	12	0	0	168	12	643	8	0	0	12	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Alcyonacea	Alcyoniidae	Sarcophyton	NoData	999.00000000	999.00000000	NoData	NoData
+109396	SH0132	17369	1064	40	1060	39	0	0	4	1	1048	19	0	0	70	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Dendrophylliidae	Duncanopsammia	axifuga	999.00000000	999.00000000	NoData	NoData
+109298	SH0034	31841	2441	82	2437	81	0	0	4	1	2379	14	0	0	360	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Acropora	muricata	999.00000000	999.00000000	NoData	NoData
+109270	SH0006	20593	907	53	787	43	0	0	120	10	778	25	0	0	61	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Acropora	nana	999.00000000	999.00000000	NoData	NoData
+109306	SH0041	18449	973	45	973	45	0	0	0	0	958	31	0	0	118	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Acropora	NoData	999.00000000	999.00000000	NoData	NoData
+109271	SH0007	36106	1839	89	1774	81	0	0	65	8	1699	31	0	0	193	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Acropora	nasuta	999.00000000	999.00000000	NoData	NoData
+109404	SH0140	20175	1173	74	1169	73	0	0	4	1	1136	44	0	0	133	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Acropora	yongei	999.00000000	999.00000000	NoData	NoData
+109300	SH0036	28485	1576	86	1569	84	0	0	7	2	1522	39	0	0	174	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Acropora	valida	999.00000000	999.00000000	NoData	NoData
+109266	SH0002	39153	1685	96	1520	83	0	0	165	13	1472	36	0	0	190	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Acropora	cerealis	999.00000000	999.00000000	NoData	NoData
+109272	SH0008	35122	1558	87	1207	71	0	0	351	16	1195	46	0	0	160	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Acropora	secale	999.00000000	999.00000000	NoData	NoData
+109368	SH0104	15289	781	46	743	39	0	0	38	7	728	25	0	0	46	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Acropora	nana	999.00000000	999.00000000	NoData	NoData
+109367	SH0103	31767	1694	83	1688	81	0	0	6	2	1639	40	0	0	170	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Acropora	cerealis	999.00000000	999.00000000	NoData	NoData
+109273	SH0009	25121	1270	61	1213	53	0	0	57	8	1198	40	0	0	252	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Acropora	tortuosa	999.00000000	999.00000000	NoData	NoData
+109317	SH0052	13633	785	44	785	44	0	0	0	0	773	26	0	0	90	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Merulinidae	Oulophyllia	NoData	999.00000000	999.00000000	NoData	NoData
+109318	SH0053	33437	2216	97	2195	92	0	0	21	5	2112	32	0	0	310	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Merulinidae	Platygyra	NoData	999.00000000	999.00000000	NoData	NoData
+109382	SH0118	14775	243	8	243	8	0	0	0	0	240	6	0	0	0	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Siderastreidae	Siderastrea	siderea	999.00000000	999.00000000	NoData	NoData
+109410	SH0146	43713	777	33	760	28	0	0	17	5	751	13	0	0	0	23	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Dendrophylliidae	Turbinaria	reniformis	999.00000000	999.00000000	NoData	NoData
+109383	SH0119	18702	332	16	332	16	0	0	0	0	326	9	0	0	0	4	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Siderastreidae	Siderastrea	siderea	999.00000000	999.00000000	NoData	NoData
+109381	SH0117	21658	342	18	328	14	0	0	14	4	322	10	0	0	0	8	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Siderastreidae	Siderastrea	siderea	999.00000000	999.00000000	NoData	NoData
+109380	SH0116	18879	353	23	303	14	0	0	50	9	300	10	0	0	0	4	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Siderastreidae	Siderastrea	siderea	999.00000000	999.00000000	NoData	NoData
+109384	SH0120	23356	445	22	445	22	0	0	0	0	433	11	0	0	5	5	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Merulinidae	Orbicella	faveolata	999.00000000	999.00000000	NoData	NoData
+109377	SH0113	21378	384	21	381	20	0	0	3	1	375	11	0	0	0	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Dendrophylliidae	Turbinaria	reniformis	999.00000000	999.00000000	NoData	NoData
+109283	SH0019	31640	590	26	587	25	0	0	3	1	584	18	0	0	0	25	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Merulinidae	Echinopora	lamellosa	999.00000000	999.00000000	NoData	NoData
+109336	SH0071	20387	995	43	967	37	0	0	28	6	952	15	0	0	55	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Poritidae	Porites	colonensis	999.00000000	999.00000000	NoData	NoData
+109276	SH0012	25389	1085	54	978	43	12	1	95	10	966	26	0	0	177	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Montipora	capricornis	999.00000000	999.00000000	NoData	NoData
+109372	SH0108	17699	902	45	887	41	6	1	9	3	875	23	0	0	170	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Montipora	capricornis	999.00000000	999.00000000	NoData	NoData
+109301	SH0037	55314	2742	113	2627	100	38	1	77	12	2559	26	0	0	599	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Montipora	foliosa	999.00000000	999.00000000	NoData	NoData
+109406	SH0142	23243	1197	45	1197	45	0	0	0	0	1188	26	0	0	208	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Montipora	digitata	999.00000000	999.00000000	NoData	NoData
+109278	SH0014	24446	1088	59	1045	50	0	0	43	9	1027	35	0	0	459	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Montipora	hirsuta	999.00000000	999.00000000	NoData	NoData
+109374	SH0110	20778	1014	38	1014	38	0	0	0	0	1008	26	0	0	167	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Montipora	digitata	999.00000000	999.00000000	NoData	NoData
+109296	SH0032	34875	2166	59	2147	55	0	0	19	4	2087	10	0	0	92	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Acropora	formosa	999.00000000	999.00000000	NoData	NoData
+109287	SH0023	21849	1483	47	1475	45	0	0	8	2	1464	13	0	0	63	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Euphylliidae	Galaxea	fascicularis	999.00000000	999.00000000	NoData	NoData
+109315	SH0050	110637	7513	192	7442	183	0	0	71	9	7092	15	0	0	897	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Merulinidae	Caulastraea	NoData	999.00000000	999.00000000	NoData	NoData
+109285	SH0021	37917	2637	84	2637	84	0	0	0	0	2561	22	0	0	142	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Merulinidae	Hydnophora	rigida	999.00000000	999.00000000	NoData	NoData
+109378	SH0114	11893	764	32	764	32	0	0	0	0	761	19	0	0	49	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Merulinidae	Hydnophora	rigida	999.00000000	999.00000000	NoData	NoData
+109330	SH0065	32835	1219	42	1169	36	0	0	50	6	1150	15	0	0	44	33	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Euphylliidae	Catalaphyllia	NoData	999.00000000	999.00000000	NoData	NoData
+109297	SH0033	36764	2951	95	2947	94	0	0	4	1	2847	16	0	0	361	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Acropora	hyacinthus	999.00000000	999.00000000	NoData	NoData
+109274	SH0010	34239	2222	67	2155	58	0	0	67	9	2115	9	0	0	74	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Acropora	yongei	999.00000000	999.00000000	NoData	NoData
+109369	SH0105	18475	1119	29	1119	29	0	0	0	0	1107	12	0	0	32	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Acropora	yongei	999.00000000	999.00000000	NoData	NoData
+109411	SH0147	59859	4209	99	4197	96	0	0	12	3	4070	11	0	0	167	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Acropora	yongei	999.00000000	999.00000000	NoData	NoData
+109339	SH0074	36891	2411	71	2397	68	0	0	14	3	2354	13	0	0	83	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Acropora	yongei	999.00000000	999.00000000	NoData	NoData
+109338	SH0073	26718	1720	44	1714	42	0	0	6	2	1699	15	0	0	96	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Acropora	yongei	999.00000000	999.00000000	NoData	NoData
+109423	SH0159	22812	1433	43	1430	42	0	0	3	1	1391	14	0	0	49	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Acropora	yongei	999.00000000	999.00000000	NoData	NoData
+109302	SH0038	36455	2458	90	2445	87	0	0	13	3	2393	15	0	0	118	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Merulinidae	Favites	NoData	999.00000000	999.00000000	NoData	NoData
+109284	SH0020	46974	3161	109	3137	104	0	0	24	5	3030	17	0	0	161	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Merulinidae	Favites	NoData	999.00000000	999.00000000	NoData	NoData
+109426	SH0162	17525	1038	29	1038	29	0	0	0	0	1032	14	0	0	124	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Merulinidae	Caulastraea	NoData	999.00000000	999.00000000	NoData	NoData
+109286	SH0022	20948	1293	49	1281	45	0	0	12	4	1253	24	0	0	183	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Merulinidae	Merulina	ampliata	999.00000000	999.00000000	NoData	NoData
+109282	SH0018	43894	2835	98	2813	93	0	0	22	5	2710	25	0	0	386	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Diploastreidae	Diploastrea	heliopora	999.00000000	999.00000000	NoData	NoData
+109332	SH0067	26661	1068	37	1053	33	0	0	15	4	1044	20	0	0	178	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Dendrophylliidae	Turbinaria	NoData	999.00000000	999.00000000	NoData	NoData
+109295	SH0031	21105	976	48	976	48	0	0	0	0	966	27	0	0	148	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Poritidae	Porites	cylindrica	999.00000000	999.00000000	NoData	NoData
+109371	SH0107	20967	1011	42	1004	40	0	0	7	2	986	22	0	0	168	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Montipora	capricornis	999.00000000	999.00000000	NoData	NoData
+109373	SH0109	15662	650	34	650	34	0	0	0	0	644	25	0	0	131	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Montipora	digitata	999.00000000	999.00000000	NoData	NoData
+109370	SH0106	25793	1039	47	1007	40	0	0	32	7	989	23	0	0	292	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Montipora	capricornis	999.00000000	999.00000000	NoData	NoData
+109407	SH0143	42924	2078	66	2075	65	0	0	3	1	2017	29	0	0	440	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Montipora	digitata	999.00000000	999.00000000	NoData	NoData
+109400	SH0136	46739	3715	97	3712	96	0	0	3	1	3611	17	0	0	49	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Pocilloporidae	Pocillopora	NoData	999.00000000	999.00000000	NoData	NoData
+109289	SH0025	28246	2227	71	2208	66	0	0	19	5	2136	23	0	0	189	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Pocilloporidae	Pocillopora	damicornis	999.00000000	999.00000000	NoData	NoData
+109429	SH0165	21296	1633	55	1624	52	0	0	9	3	1600	25	0	0	183	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Pocilloporidae	Pocillopora	damicornis	999.00000000	999.00000000	NoData	NoData
+109408	SH0144	26400	2270	63	2263	61	0	0	7	2	2206	23	0	0	232	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Pocilloporidae	Pocillopora	damicornis	999.00000000	999.00000000	NoData	NoData
+109421	SH0157	28831	1084	61	1081	60	0	0	3	1	1056	36	0	0	83	72	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Pocilloporidae	Pocillopora	damicornis	999.00000000	999.00000000	NoData	NoData
+109413	SH0149	29190	2629	47	2626	46	0	0	3	1	2607	10	0	0	43	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Dendrophylliidae	Turbinaria	reniformis	999.00000000	999.00000000	NoData	NoData
+109409	SH0145	66282	1073	46	1061	44	0	0	12	2	1037	22	0	0	0	362	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Pocilloporidae	Seriatopora	hystrix	999.00000000	999.00000000	NoData	NoData
+109293	SH0029	49934	762	42	726	37	0	0	36	5	693	15	0	0	0	267	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Pocilloporidae	Seriatopora	hystrix	999.00000000	999.00000000	NoData	NoData
+109430	SH0166	18345	278	14	278	14	0	0	0	0	275	12	0	0	0	119	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Pocilloporidae	Pocillopora	verrucosa	999.00000000	999.00000000	NoData	NoData
+109414	SH0150	18901	1291	40	1245	32	0	0	46	8	1239	20	0	0	190	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Pocilloporidae	Stylophora	pistillata	999.00000000	999.00000000	NoData	NoData
+109294	SH0030	50866	3711	118	3704	116	0	0	7	2	3556	17	0	0	412	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Pocilloporidae	Stylophora	pistillata	999.00000000	999.00000000	NoData	NoData
+109375	SH0111	12719	780	28	777	27	0	0	3	1	774	18	0	0	90	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Pocilloporidae	Stylophora	pistillata	999.00000000	999.00000000	NoData	NoData
+109424	SH0160	21370	1437	50	1433	49	0	0	4	1	1410	25	0	0	199	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Pocilloporidae	Stylophora	pistillata	999.00000000	999.00000000	NoData	NoData
+109356	SH0091	16341	893	24	893	24	0	0	0	0	890	5	0	0	0	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Acropora		999.00000000	999.00000000	NoData	NoData
+109351	SH0086	20467	1118	24	1118	24	0	0	0	0	1115	6	37	0	0	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Acropora	cervicornis	999.00000000	999.00000000	NoData	NoData
+109364	SH0100	18156	925	27	918	25	0	0	7	2	918	6	34	0	0	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Acropora		999.00000000	999.00000000	NoData	NoData
+109388	SH0124	25515	1884	40	1884	40	0	0	0	0	1862	15	0	0	203	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Dendrophylliidae	Turbinaria	peltata	999.00000000	999.00000000	NoData	NoData
+109376	SH0112	20763	1239	52	1229	49	0	0	10	3	1202	19	0	0	113	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Dendrophylliidae	Turbinaria	peltata	999.00000000	999.00000000	NoData	NoData
+109323	SH0058	31775	2041	53	2028	50	0	0	13	3	1995	22	0	0	323	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Lobophyliidae	Acanthastrea	NoData	999.00000000	999.00000000	NoData	NoData
+109326	SH0061	16058	613	23	336	11	0	0	277	12	333	10	0	0	50	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Merulinidae	Trachyphyllia	geoffroyi	999.00000000	999.00000000	NoData	NoData
+109397	SH0133	33921	2993	89	2903	81	8	1	82	7	2815	17	0	0	1475	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Helioporacea	Helioporidae	Heliopora	coerulea	999.00000000	999.00000000	NoData	NoData
+109309	SH0044	58146	3931	84	3894	79	0	0	37	5	3840	15	0	0	157	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Dendrophylliidae	Duncanopsammia	axifuga	999.00000000	999.00000000	NoData	NoData
+109279	SH0015	38565	2673	65	2664	62	0	0	9	3	2602	9	0	0	274	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Agariciidae	Pavona	cactus	999.00000000	999.00000000	NoData	NoData
+109334	SH0069	9914	510	17	510	17	0	0	0	0	507	12	0	0	73	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Fungiidae	Herpolitha	limax	999.00000000	999.00000000	NoData	NoData
+109331	SH0066	9688	513	22	482	16	0	0	31	6	476	11	0	0	71	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Euphylliidae	Catalaphyllia	NoData	999.00000000	999.00000000	NoData	NoData
+109427	SH0163	11533	513	29	440	19	0	0	73	10	428	7	0	0	16	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Merulinidae	Pectinia	NoData	999.00000000	999.00000000	NoData	NoData
+109268	SH0004	37792	1837	53	1622	41	0	0	215	12	1596	11	0	0	107	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Faviidae	Favia	fragum	999.00000000	999.00000000	NoData	NoData
+109333	SH0068	22974	1229	49	1216	46	0	0	13	3	1204	22	0	0	85	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Faviidae	Favia	NoData	999.00000000	999.00000000	NoData	NoData
+109391	SH0127	18902	1278	33	1272	31	0	0	6	2	1246	9	0	0	17	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Corallimorpharia	Discosomidae	Actinodiscus	NoData	999.00000000	999.00000000	NoData	NoData
+109399	SH0135	46459	3144	96	3138	94	0	0	6	2	3040	24	0	0	288	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Zoantharia	Sphenopidae	Palythoa	NoData	999.00000000	999.00000000	NoData	NoData
+109265	SH0001	22833	1318	50	1237	41	0	0	81	9	1228	21	0	0	77	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Acropora	aculeus	999.00000000	999.00000000	NoData	NoData
+109305	SH0040	25909	1836	69	1832	68	0	0	4	1	1750	21	0	0	117	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Acropora	NoData	999.00000000	999.00000000	NoData	NoData
+109379	SH0115	13474	769	30	766	29	0	0	3	1	757	16	0	0	92	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Mussidae	Blastomussa	merleti	999.00000000	999.00000000	NoData	NoData
+109310	SH0045	48746	3024	87	3014	84	0	0	10	3	2951	20	0	0	291	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Dendrophylliidae	Turbinaria	peltata	999.00000000	999.00000000	NoData	NoData
+109275	SH0011	41998	2187	86	1971	71	0	0	216	15	1926	31	0	0	392	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Montipora	capitata	999.00000000	999.00000000	NoData	NoData
+109387	SH0123	24156	1255	50	1252	49	0	0	3	1	1235	32	0	0	268	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Montipora	capitata	999.00000000	999.00000000	NoData	NoData
+109405	SH0141	20975	1306	41	1303	40	0	0	3	1	1286	23	0	0	466	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Montipora	NoData	999.00000000	999.00000000	NoData	NoData
+109308	SH0043	48943	2825	84	2808	81	0	0	17	3	2723	20	0	0	954	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Montipora	NoData	999.00000000	999.00000000	NoData	NoData
+109420	SH0156	19085	263	16	258	15	0	0	5	1	240	8	0	0	0	83	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Pocilloporidae	Pocillopora	damicornis	999.00000000	999.00000000	NoData	NoData
+109422	SH0158	24859	337	17	334	16	0	0	3	1	328	13	0	0	0	139	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Pocilloporidae	Pocillopora	damicornis	999.00000000	999.00000000	NoData	NoData
+109385	SH0121	19505	1419	42	1415	41	0	0	4	1	1395	21	0	0	128	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Montastraeidae	Montastrea	cavernosa	999.00000000	999.00000000	NoData	NoData
+109386	SH0122	17586	1012	37	1012	37	0	0	0	0	999	22	0	0	67	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Montastraeidae	Montastrea	cavernosa	999.00000000	999.00000000	NoData	NoData
+109312	SH0047	41169	3728	100	3703	94	0	0	25	6	3625	11	0	0	1107	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Psammocoridae	Psammocora	NoData	999.00000000	999.00000000	NoData	NoData
+109425	SH0161	12869	926	23	913	20	0	0	13	3	913	14	0	0	425	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Psammocoridae	Psammocora	NoData	999.00000000	999.00000000	NoData	NoData
+109398	SH0134	26600	1695	48	1695	48	0	0	0	0	1659	15	0	0	279	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Alcyonacea	Alcyoniidae	Lobophytum	NoData	999.00000000	999.00000000	NoData	NoData
+109403	SH0139	24827	1274	50	1274	50	0	0	0	0	1250	28	0	5	394	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Zoantharia	Zoanthidae	Zoanthus	NoData	999.00000000	999.00000000	NoData	NoData
+109394	SH0130	20692	344	12	337	10	0	0	7	2	334	8	0	0	0	9	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Alcyonacea	Nephtheidae	Capnella	NoData	999.00000000	999.00000000	NoData	NoData
+109393	SH0129	18534	365	27	365	27	0	0	0	0	347	19	0	0	0	127	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Alcyonacea	Briareidae	Briareum	violaceum	999.00000000	999.00000000	NoData	NoData
+109328	SH0063	14045	1236	40	1236	40	0	0	0	0	1227	15	0	0	10	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Alveopora	NoData	999.00000000	999.00000000	NoData	NoData
+109281	SH0017	34101	2744	103	2734	100	0	0	10	3	2637	24	0	0	74	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Dendrophylliidae	Turbinaria	reniformis	999.00000000	999.00000000	NoData	NoData
+109401	SH0137	27080	474	22	468	21	0	0	6	1	459	10	0	0	0	29	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Alcyonacea	Alcyoniidae	Sinularia	brassica	999.00000000	999.00000000	NoData	NoData
+109322	SH0057	19372	829	45	526	24	0	0	303	21	517	13	0	0	84	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Euphylliidae	Euphyllia	paradivisa	999.00000000	999.00000000	NoData	NoData
+109314	SH0049	198865	12304	329	12103	318	0	0	201	11	11320	23	0	0	1685	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Agariciidae	Pachyseris	NoData	999.00000000	999.00000000	NoData	NoData
+109395	SH0131	26747	465	19	462	18	0	0	3	1	453	11	0	0	0	108	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Alcyonacea	Clavulariidae	Clauvularia	NoData	999.00000000	999.00000000	NoData	NoData
+109417	SH0153	18217	921	43	908	40	0	0	13	3	893	25	357	0	0	0	0	0	0	0	0	coral_aquarium	Cnidaria	Hydrozoa	Anthoathecata	Milleporidae	Millepora	NoData	999.00000000	999.00000000	NoData	NoData
+109316	SH0051	63415	3955	135	3862	128	0	0	93	7	3705	18	0	0	199	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Lobophyliidae	Lobophyllia	NoData	999.00000000	999.00000000	NoData	NoData
+109311	SH0046	20589	1274	47	1261	44	0	0	13	3	1258	23	0	0	239	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Mussidae	Blastomussa	merleti	999.00000000	999.00000000	NoData	NoData
+109280	SH0016	34399	3312	72	3302	70	0	0	10	2	3223	9	0	0	79	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Agariciidae	Pavona	decussata	999.00000000	999.00000000	NoData	NoData
+109304	SH0039B	17318	877	42	801	30	0	0	76	12	792	17	0	0	51	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Acropora	NoData	999.00000000	999.00000000	NoData	NoData
+109307	SH0042	18708	1069	59	1052	55	0	0	17	4	1034	26	0	0	89	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Acropora	NoData	999.00000000	999.00000000	NoData	NoData
+109313	SH0048	110744	12082	285	12050	279	0	0	32	6	11468	15	0	0	225	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Agariciidae	Agaricia	(?)	999.00000000	999.00000000	NoData	NoData
+109416	SH0152	17119	1530	44	1530	44	0	0	0	0	1497	18	0	0	279	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Alcyonacea	Gorgoniidae	Rumphella	NoData	999.00000000	999.00000000	NoData	NoData
+109390	SH0126	19285	328	14	328	14	0	0	0	0	325	8	0	0	0	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Merulinidae	Echinopora	lamellosa	999.00000000	999.00000000	NoData	NoData
+109428	SH0164	31081	1774	58	1774	58	0	0	0	0	1752	23	0	0	26	13	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Dendrophylliidae	Turbinaria	reniformis	999.00000000	999.00000000	NoData	NoData
+109319	SH0054	15243	1632	46	1632	46	0	0	0	0	1611	8	0	0	0	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Fungiidae	Fungia	NoData	999.00000000	999.00000000	NoData	NoData
+109290	SH0026	23590	1769	51	1769	51	0	0	0	0	1736	17	0	0	59	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Pocilloporidae	Pocillopora	verrucosa	999.00000000	999.00000000	NoData	NoData
+109389	SH0125	14330	252	15	249	14	0	0	3	1	240	9	0	0	0	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Dendrophylliidae	Turbinaria	reniformis	999.00000000	999.00000000	NoData	NoData
+109402	SH0138	29386	2205	87	2190	85	0	0	15	2	2131	23	0	0	1047	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Alcyonacea	Alcyoniidae	Sinularia	NoData	999.00000000	999.00000000	NoData	NoData
+109291	SH0027	25571	2286	73	2286	73	0	0	0	0	2227	21	0	0	151	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Pocilloporidae	Pocillopora	NoData	999.00000000	999.00000000	NoData	NoData
+109299	SH0035	45544	2630	82	2620	79	0	0	10	3	2540	23	0	0	187	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Acropora	tenuis	999.00000000	999.00000000	NoData	NoData
+109419	SH0155	21253	341	20	333	18	4	1	4	1	330	15	0	0	0	77	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Pocilloporidae	Pocillopora	damicornis	999.00000000	999.00000000	NoData	NoData
+109418	SH0154	15708	269	21	222	14	0	0	47	7	216	11	0	0	0	73	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Pocilloporidae	Pocillopora	damicornis	999.00000000	999.00000000	NoData	NoData
+109412	SH0148	4386	94	16	39	7	0	0	55	9	36	5	0	0	7	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Acropora	nana	999.00000000	999.00000000	NoData	NoData
+109392	SH0128	1989	58	9	15	1	0	0	43	8	15	1	0	0	0	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Corallimorpharia	Discosomidae	Amplexidiscus	fenestrafer	999.00000000	999.00000000	NoData	NoData
+109353	SH0088	3422	169	10	150	6	0	0	19	4	150	5	4	0	0	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Acropora		999.00000000	999.00000000	NoData	NoData
+109342	SH0077	5039	116	11	16	2	0	0	100	9	16	2	0	0	0	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Montipora	capitata	999.00000000	999.00000000	NoData	NoData
+109341	SH0076	8217	214	19	104	10	0	0	110	9	98	7	0	0	11	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Montipora	capitata	999.00000000	999.00000000	NoData	NoData
+109340	SH0075	2577	47	7	7	1	0	0	40	6	7	1	0	0	0	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Montipora	capitata	999.00000000	999.00000000	NoData	NoData
+109337	SH0072	4575	109	14	31	5	0	0	78	9	28	3	0	0	0	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Acropora	yongei	999.00000000	999.00000000	NoData	NoData
+109335	SH0070	8805	264	19	62	4	0	0	202	15	62	4	0	0	23	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Lobophylliidae	Echinophyllia	NoData	999.00000000	999.00000000	NoData	NoData
+109329	SH0064	3705	58	9	0	0	0	0	58	9	0	0	0	0	0	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Acropora	subulata	999.00000000	999.00000000	NoData	NoData
+109327	SH0062	1964	48	8	8	2	0	0	40	6	5	1	0	0	0	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	NoData	Symphyllia	NoData	999.00000000	999.00000000	NoData	NoData
+109325	SH0060	7091	131	14	8	1	0	0	123	13	8	1	0	0	0	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Merulinidae	Trachyphyllia	NoData	999.00000000	999.00000000	NoData	NoData
+109324	SH0059	5984	142	17	45	5	0	0	97	12	45	5	0	0	0	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Lobophyliidae	Acanthastrea	echinata	999.00000000	999.00000000	NoData	NoData
+109321	SH0056	4758	117	13	16	2	0	0	101	11	16	1	0	0	0	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Euphylliidae	Euphyllia	paraancora	999.00000000	999.00000000	NoData	NoData
+109320	SH0055	2762	78	10	33	3	0	0	45	7	33	3	0	0	0	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Fungiidae	Fungia	NoData	999.00000000	999.00000000	NoData	NoData
+109303	SH0039A	474	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Acropora	NoData	999.00000000	999.00000000	NoData	NoData
+109292	SH0028	1861	25	6	12	3	0	0	13	3	9	2	0	0	0	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Pocilloporidae	Seriatopora	guttata	999.00000000	999.00000000	NoData	NoData
+109288	SH0024	3167	75	10	24	3	0	0	51	7	24	3	0	0	0	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Lobophylliidae	Echinophyllia	NoData	999.00000000	999.00000000	NoData	NoData
+109277	SH0013	7825	185	22	102	10	0	0	83	12	93	5	0	0	0	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Montipora	digitata	999.00000000	999.00000000	NoData	NoData
+109269	SH0005	19438	408	20	16	3	0	0	392	17	16	3	0	0	0	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Acropora	latistella	999.00000000	999.00000000	NoData	NoData
+109267	SH0003	22838	459	20	40	6	0	0	419	14	34	4	0	0	0	0	0	0	0	0	0	coral_aquarium	Cnidaria	Anthozoa	Scleractinia	Acroporidae	Acropora	humilis	999.00000000	999.00000000	NoData	NoData
+109264	NEC6	6651	172	13	0	0	0	0	172	13	0	0	0	0	0	0	0	0	0	0	0	PCR_negative	NoData	NoData	NoData	NoData	NoData	NoData	999.00000000	999.00000000	NoData	NoData
+109263	NEC3	2200	51	9	11	1	0	0	40	8	11	1	0	0	0	0	0	0	0	0	0	PCR_negative	NoData	NoData	NoData	NoData	NoData	NoData	999.00000000	999.00000000	NoData	NoData
+109262	NEC2	2904	43	7	10	1	0	0	33	6	10	1	0	0	0	0	0	0	0	0	0	PCR_negative	NoData	NoData	NoData	NoData	NoData	NoData	999.00000000	999.00000000	NoData	NoData
+109261	NEC1	2496	61	10	18	2	0	0	43	8	18	2	0	0	0	0	0	0	0	0	0	PCR_negative	NoData	NoData	NoData	NoData	NoData	NoData	999.00000000	999.00000000	NoData	NoData

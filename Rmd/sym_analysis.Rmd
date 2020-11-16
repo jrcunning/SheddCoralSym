@@ -1,0 +1,56 @@
+---
+title: "ITS2 analysis"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(tidyverse)
+library(janitor)
+library(phyloseq)  # source('http://bioconductor.org/biocLite.R'); biocLite('phyloseq')
+library(zoo)
+library(stringr)
+library(vegan)
+library(multcompView)
+
+# Load data (see data_exploration.Rmd)
+load("data/coral_phyloseq.RData")
+```
+
+```{r}
+coral2 <- coral %>%
+  subset_samples(!is.na(host_species))
+
+coralDIV2 <- coralDIV %>%
+  subset_samples(!is.na(host_species))
+```
+
+# Does Symbiodiniaceae community structure in corals vary among sites?
+```{r, fig.width = 10, fig.height = 40}
+# Plot ITS2 profiles for each coral sample by species and site
+plot_bar(coral, fill = "its2_type_profile") +
+  facet_wrap(~ host_genus + host_species, ncol = 6, scales = "free") +
+  theme(legend.position = "none") +
+  geom_bar(stat = "identity")
+
+# Plot all post-MED sequences
+plot_bar(coralDIV2, fill = "DIV") +
+  facet_wrap(~ host_genus + host_species, scales = "free") +
+  theme(legend.position = "none") +
+  geom_bar(stat = "identity")
+
+# Glom all post-MED sequences by clade:
+divclades <- coralDIV2 %>%
+  tax_glom(taxrank = "clade") %>%                # agglomerate at clade level
+  psmelt() %>%                                         # Melt to long format
+  arrange(clade)                                      # Sort data frame alphabetically by clade
+
+ggplot(divclades, aes(x = Sample, y = Abundance, fill = clade)) +
+  facet_wrap(~ host_genus + host_species, scales = "free") +
+  geom_bar(stat = "identity") +
+  labs(title=NULL, x = NULL, y = "Relative abundance")
+```
+
